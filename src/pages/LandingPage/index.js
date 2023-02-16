@@ -10,12 +10,15 @@ function LandingPage() {
             <p className='font-poppins font-semibold text-head'>Coming<br/>Soon 😀</p>
             <p className='text-blue font-medium'>#BerlayarSelarasMenyemaikanMakna</p>
         </div>
-        <div className='sub-head'>
+        <div className='sub-head mr-4'>
             <p className='text-blue'>To make things right we need some time to build.</p>
             <p className='text-blue font-bold'>Register for join KMHD UI 2023!!</p>
         </div>
-        <a href='https://docs.google.com/forms/d/e/1FAIpQLSc24aGto-MJaIlJBTZ4wpiHdj76CKPdiD8fTHlpWp-Yaatobw/viewform?usp=sharing'>
-            <button className='btn font-bold mt-4 mb-4'>Register</button>
+        <a 
+          href='https://docs.google.com/forms/d/e/1FAIpQLSehLy89LJFXLJ6vHJp5ppmtIluaeDFe3TtiV7zCrypszAR7hQ/viewform'
+          className=''
+        >
+            <button className='btn font-bold mt-4 mr-7'>Register</button>
         </a>
       </div>
       <div className='col-span-3 cover'>
